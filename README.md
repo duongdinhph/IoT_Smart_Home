@@ -22,7 +22,7 @@ The smart home system is structured into 4 key modules:
   - **Temperature & Humidity sensors** (e.g., DHT11)
   - **Motion sensors** (e.g., HC-SR505)
   - **Gas sensors** (e.g., MQ6)
-  - **Fire/smoke sensors**
+  - **Camera**
 - Sends raw data to the microcontroller for processing.
 
 ### 2. Microcontroller Unit
@@ -45,7 +45,7 @@ The smart home system is structured into 4 key modules:
 - Devices include:
   - **LED lights**
   - **Servo motor** (for door control)
-  - **Cooling/heating systems** (fan, heater)
+  - **Cooling/heating systems** (heater)
   - **Warning systems** (buzzer, alarm lights)
 
 ---
@@ -93,6 +93,7 @@ smart-home-iot/
 - DHT11 (Temp/Humidity)
 - MQ6 (Gas)
 - HC-SR505 (Motion)
+- H bridge 
 - Relay, Servo, LED, Buzzer
 
 ### Software Requirements
@@ -102,11 +103,11 @@ smart-home-iot/
 
 ### Steps
 
-1. Upload the code in `firmware/` to your ESP32.
+1. Upload the code in `firmware/` to your ESP32/8688.
 2. Set up the Blynk app:
    - Add widgets (LEDs, gauges, buttons)
    - Configure virtual pins
-3. Connect hardware components to the ESP32.
+3. Connect hardware components to the ESP32/8688.
 4. Power the board and start monitoring via your phone.
 
 ---
@@ -118,17 +119,3 @@ smart-home-iot/
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Pham Dinh Duong**  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
-- LinkedIn: [Your Profile](#)
-
----
