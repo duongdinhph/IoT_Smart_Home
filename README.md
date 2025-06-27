@@ -113,24 +113,53 @@ smart-home-iot/
 ---
 
 ## 📸 Screenshots
-
-![3D Smart Home Diagram](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png)
-
-![Smart Home Diagram](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/Smart%20Home%20diagram.png)
-
 <div align="center">
-  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%201.png" alt="Smiley face" width="200">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png" 
+    title="3D Diagram" 
+    width="200">
 </div>
 
-![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%202.png)
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/Smart%20Home%20diagram.png"
+    title="Smart home diagram"
+    width="200">
+</div>
 
-![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%203.png)
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%201.png"
+   title="Real model of the Smart home project (1)" 
+   width="200">
+</div>
 
-![Blynk platform](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20platform.png)
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%202.png"
+   title="Real model of the Smart home project (2)" 
+   width="200">
+</div>
 
-![Mobile interface](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%201.png)
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%203.png"
+   title="Real model of the Smart home project (3)" 
+   width="200">
+</div>
 
-![Mobile interface](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%202.png)
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20platform.png"
+   title="Blynk platform" 
+   width="200">
+</div>
+
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%201.png"
+   title="Mobile application interface" 
+   width="200">
+</div>
+
+<div align="center">
+  <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%202.png"
+   title="Mobile application interface" 
+   width="200">
+</div>
 
 
 ---
