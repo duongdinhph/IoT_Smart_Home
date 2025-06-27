@@ -114,8 +114,22 @@ smart-home-iot/
 
 ## 📸 Screenshots
 
-![Mobile Dashboard](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png)
-*(Optional: Add more interface pictures)*
+![3D Smart Home Diagram](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png)
+
+![Smart Home Diagram](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/Smart%20Home%20diagram.png)
+
+![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%201.png)
+
+![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%202.png)
+
+![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%203.png)
+
+![Blynk platform](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20platform.png)
+
+![Mobile interface](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%201.png)
+
+![Mobile interface](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%202.png)
+
 
 ---
 
