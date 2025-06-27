@@ -115,50 +115,58 @@ smart-home-iot/
 ## 📸 Screenshots
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png" 
+    alt="Smart home model"
     title="3D Diagram" 
-    width="200">
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/Smart%20Home%20diagram.png"
+    alt="Smart home model"
     title="Smart home diagram"
-    width="200">
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%201.png"
-   title="Real model of the Smart home project (1)" 
-   width="200">
+    alt="Smart home model"
+    title="Real model of the Smart home project (1)" 
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%202.png"
-   title="Real model of the Smart home project (2)" 
-   width="200">
+    alt="Smart home model"
+    title="Real model of the Smart home project (2)" 
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%203.png"
-   title="Real model of the Smart home project (3)" 
-   width="200">
+    alt="Smart home model"
+    title="Real model of the Smart home project (3)" 
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20platform.png"
-   title="Blynk platform" 
-   width="200">
+    alt="Smart home model"
+    title="Blynk platform" 
+    width="600">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%201.png"
-   title="Mobile application interface" 
-   width="200">
+    alt="Smart home model"
+    title="Mobile application interface" 
+    width="400">
 </div>
 
 <div align="center">
   <img src="https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/blynk%20interface%202.png"
-   title="Mobile application interface" 
-   width="200">
+    alt="Smart home model"
+    title="Mobile application interface" 
+    width="400">
 </div>
 
 
