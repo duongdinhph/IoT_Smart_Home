@@ -114,7 +114,7 @@ smart-home-iot/
 
 ## 📸 Screenshots
 
-![Mobile Dashboard](images/3D Home.png)
+![Mobile Dashboard](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/3D%20Home.png)
 *(Optional: Add more interface pictures)*
 
 ---
