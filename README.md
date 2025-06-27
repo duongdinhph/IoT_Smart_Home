@@ -114,7 +114,7 @@ smart-home-iot/
 
 ## 📸 Screenshots
 
-![Mobile Dashboard](images/blynk-dashboard.png)
+![Mobile Dashboard](images/3D Home.png)
 *(Optional: Add more interface pictures)*
 
 ---
