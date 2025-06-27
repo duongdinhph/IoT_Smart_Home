@@ -118,9 +118,9 @@ smart-home-iot/
 
 ![Smart Home Diagram](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/Smart%20Home%20diagram.png)
 
-<p align="center">
-  <img src="[https://example.com/image.png](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%201.png)" alt="Image" width="300"/>
-</p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" alt="Smiley face" width="200">
+</div>
 
 ![Real model](https://github.com/duongdinhph/IoT_Smart_Home/blob/main/images/real%20model%202.png)
 
