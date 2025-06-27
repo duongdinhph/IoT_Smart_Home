@@ -103,11 +103,11 @@ smart-home-iot/
 
 ### Steps
 
-1. Upload the code in `firmware/` to your ESP32/8688.
+1. Upload the code in `firmware/` to your ESP32/8266.
 2. Set up the Blynk app:
    - Add widgets (LEDs, gauges, buttons)
    - Configure virtual pins
-3. Connect hardware components to the ESP32/8688.
+3. Connect hardware components to the ESP32/8266.
 4. Power the board and start monitoring via your phone.
 
 ---
