@@ -74,10 +74,10 @@ The system uses a layered communication structure:
 ---
 
 ## 📂 Project Structure
-smart-home-iot/
-├── firmware/ → ESP32/8266, Arduino Uno R3 firmware code
-├── docs/ → Architecture diagrams and documentation
-├── images/ → Screenshots of the smart home and the mobile interface
+smart-home-iot/  
+├── firmware/ → ESP32/8266, Arduino Uno R3 firmware code  
+├── docs/ → Architecture diagrams and documentation  
+├── images/ → Screenshots of the smart home and the mobile interface  
 ├── README.md → Project overview
 
 ---
